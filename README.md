@@ -10,15 +10,13 @@ by the philosophy of Dungeon World.
 * Fill the character's lives with adventure
 * Play to find out what happens
 
+## The Campaign
 
-* [The World](./world.md)
+* [Session Notes](./notes)
 * [Secrets](./secrets.md)
-
-## Rules 
-
-* [gm-moves](./rules/gm-moves.md)
-* [principles](./rules/principles.md)
-* [hombrew](./rules/homebrew.md)
+* [Campaign Fronts](./campaign-fronts/)
+* [Adventure Fronts](./adventure-fronts/)
+* [The World](./world.md)
 
 ## Characters
 
@@ -27,12 +25,10 @@ by the philosophy of Dungeon World.
 * [Knxthrp - Tim](./characters/knxthrp.md)
 * [Yabba - Alex](./characters/yabba.md)
 
-## Fronts
+## Rules 
 
-* [Campaign Fronts](./campaign-fronts/)
-* [Adventure Fronts](./adventure-fronts/)
+* [gm-moves](./rules/gm-moves.md)
+* [principles](./rules/principles.md)
+* [hombrew](./rules/homebrew.md)
 
-## Session Notes
-
-* [Session Notes](./notes)
 
