@@ -4,7 +4,7 @@ These are some notes on a homebrew version of
 Dungeons and Dragons 5e that is heavily influenced
 by the philosophy of Dungeon World.
 
-* gm-moves
+* [gm-moves](./rules/gm-moves)
 * principles
 * rules
 
