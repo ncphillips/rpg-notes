@@ -1,18 +1,13 @@
-#####################
-# Player Characters #
-#####################
+# Characters
+
+## Player Characters 
 
 * Badger
 * Erastus
 * Knxthrp
 * Yabba
 
-
-Year 14
-
-#########################
-# Non Player Characters #
-#########################
+## Non Player Characters 
 
 ### Raume
 
@@ -75,9 +70,7 @@ as a reference to the way in which he intends to lead the city.
 ### Hagen
 
 
-############
-# Factions #
-############
+# Factions 
 
 ## The Caravan of Nomadic Monks
 
@@ -104,18 +97,16 @@ strong ties to the guilds of various cities.
 
 
 
-#############
-# Locations #
-#############
+# Locations 
 
-### Stumble Duck
+## Stumble Duck
 
 An entirely Gnome village.
 
 
 
 
-### The Bog
+## The Bog
 
 A large bog North West of Stumble Duck.
 
@@ -124,24 +115,24 @@ It is inhabited by The Arch Faye, a bog hag.
 
 
 
-### Dunsgatha
+## Dunsgatha
 
 The size of Moncton.
 
 
 
 
-### Tir Marin
+## Tir Marin
 
 An Eladrin village ~400km north of Dunsgatha. It is sparsely populated.
 
 
 
-### The Broken Mill
+## The Broken Mill
 
 A small mill between Dusgtha and Crapeau, a few miles west of Home.
 
-### Home
+## Home
 
 Lead by The Gardener.
 
@@ -152,9 +143,7 @@ Lead by The Gardener.
 
 
 
-#########
-# Races #
-#########
+# Races 
 
 ## Eladrin
 
@@ -196,9 +185,7 @@ Eladrin have a long lifespan, averaging 800 years.
 
 
 
-###########
-# History #
-###########
+# History
 
 ## In the last hundred years
 
