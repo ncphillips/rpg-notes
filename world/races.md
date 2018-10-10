@@ -2,9 +2,8 @@
 
 ## Eladrin
 
-Eladrin are seen as poor. Their society is rigid and 
-legalistic, but they are seen as rural bumpkins. Many
-of their civilizations are past their prime. Some of the 
+Their society rigid and legalistic, but they are seen as 
+poor country bumpkins. Many of their civilizations are past their prime. Some of the 
 poorer lower-cast are ending up in cities; others are in
 non-elf militaries because of their keen combat skills.
 
