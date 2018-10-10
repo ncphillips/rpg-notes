@@ -11,6 +11,9 @@ by the philosophy of Dungeon World.
 * Play to find out what happens
 
 
+* [The World](./world.md)
+* [Secrets](./secrets.md)
+
 ## Rules 
 
 * [gm-moves](./rules/gm-moves.md)
@@ -27,4 +30,9 @@ by the philosophy of Dungeon World.
 ## Fronts
 
 * [Campaign Fronts](./campaign-fronts/)
+* [Adventure Fronts](./adventure-fronts/)
+
+## Session Notes
+
+* [Session Notes](./notes)
 
