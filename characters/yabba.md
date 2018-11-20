@@ -17,7 +17,17 @@ with her knitting needles.
 
 At heart, Yabba is a merchant. 
 
-(TRINKET) She owns a one oune block made from an unknown material. 
+## Trinket
+
+She owns a one oune block made from an unknown material. 
+
+## Bulezau Skull 
+
+She took this skull after they defeated the demon.
+
+
+
+
 
 #### Relationships
 

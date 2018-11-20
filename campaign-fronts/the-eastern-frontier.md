@@ -8,7 +8,8 @@ would prefer to see the status quo maintained.
 
 ## The Stakes
 
-* Will Home become survive to become a great city?
+* Will Home survive to become a great city?
+* Will the party stay in good standing with Home?
 
 ## Cast
 
@@ -19,7 +20,7 @@ would prefer to see the status quo maintained.
 
 * Tabaxi 1
 * Tabaxi 2
-* Gnome 1
+* Seebo Resse, a Gnome who has beeen helping grow the walls.
 * Gnome 2
 * Gnome 3
 
@@ -68,14 +69,24 @@ intelligent people, and are actively looking to grow.
 
 The source of the river that flows to Home.
 
-**Impulse:** to corrupt and consume the living (shadow land)
+There is a cave that river water comes from. A small lake
+sits at the cavern's entrance, and a strangely horrid
+cold smell is drawn out with the gushing water. Some 
+distance inside the cave is an enormous drop. There is a 
+waterfall, but it falls up. The water rushes up from deep 
+inside the ground and over the edge into a pool, where 
+it then flows out into the lake.
 
-**Dangers**
+**Impulse:** to corrupt and consume the living (shadow land)
 
 **Grim Portents**
 
+* Badger's Dream
+
 **Impending Doom**
 
+? Morkoth
+? Darklings, evil fay 
 
 **Moves**
 

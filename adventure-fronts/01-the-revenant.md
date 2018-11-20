@@ -21,7 +21,7 @@ Impulse: To destroy Raume
 
 Grim Portents
 
-* Gilda moves towards Home 
+* Gilda moves towards Home (DONE)
 * Gilda arrives in Home (DONE)
 * Gilda finds Raume
 
@@ -31,4 +31,5 @@ Impending Doom
   be killed by the revenant Gilda.
   * If Raume is killed, they find his journal detailing the events.
   * If he is not killed they do not 
+
 

@@ -22,6 +22,7 @@ a dragonborn society.
 
 Knxthrp: A glass jar containing a weird bit of flesh floating in a pickling fluid
 
+Knxthrp is jacked
 
 ## Sworn Rival
 

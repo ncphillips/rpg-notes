@@ -3,6 +3,8 @@
 
 ## Raume
 
+Stats: Veteran (MM350
+
 Raume was the detective captain inspector (DCI) in Dunsgatha. A 
 year ago he went missing and was presumed to be dead. In reality,
 he left the city to join The Gardener in his new home.
@@ -36,6 +38,8 @@ Badger's Patron.
 
 Is a giant tree with a moustache.
 
+
+
 ## The Gardener
 
 
@@ -62,5 +66,8 @@ as a reference to the way in which he intends to lead the city.
 ## Hagen
 
 A half-orc range who was killed by a revenant while scouting.
+
+
+
 
 
