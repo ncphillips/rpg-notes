@@ -1,11 +1,11 @@
 # Badger (Chris)
 
-Roondar "Badger" Nackle is a 80-year young Gnome Warlock who derives his 
-power from _the Arch Faye_. 
+Roondar "Badger" Nackle is a 80-year young Gnome Warlock who derives his
+power from _the Arch Faye_.
 
 Pact of the chain.
 
-Left his hometown of _Stumble Duck_ after his encouter with the 
+Left his hometown of _Stumble Duck_ after his encouter with the
 Arch Faye. Thought he might make more of himself by learning magic
 beyond the simple spells tinkered with there.
 
@@ -22,13 +22,11 @@ He has a small weightless stone block
 
 ### Knxthrp
 
-* Although he is more crass, he is a warlock, so there is shared understanding.
+- Although he is more crass, he is a warlock, so there is shared understanding.
 
 ### Questions
 
 #### Magic
 
-* What is the Pact of Chains?
-* Why is this his pact?
-
-
+- What is the Pact of Chains?
+- Why is this his pact?
