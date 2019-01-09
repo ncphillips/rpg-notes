@@ -30,3 +30,8 @@ Erastus knows you can't judge a race by a single individual.
 He has come to appreciate the rougher methods of Knxthrp.
 
 ## Questions
+
+> How did your early life in Tir Marin prepare
+> you for the job of detective in Dunsgatha?
+
+> In what ways was your background a disadvantage?

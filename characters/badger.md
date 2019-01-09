@@ -26,6 +26,13 @@ He has a small weightless stone block
 
 ### Questions
 
+> You have a small weightless stone block.
+> What does it look like?
+
+> How do you carry it around?
+
+> How did you come across this item?
+
 #### Magic
 
 - What is the Pact of Chains?

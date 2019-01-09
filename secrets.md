@@ -2,7 +2,6 @@
 
 - The Gardener is still very rich, and maintains great influence
   inside the city of Dunsgatha.
-- There is evil at the source of the River Home
 
 ## In a Front
 

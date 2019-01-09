@@ -21,9 +21,10 @@ Impulse: To destroy Raume
 
 Grim Portents
 
-- Gilda moves towards Home (DONE)
-- Gilda arrives in Home (DONE)
-- Gilda finds Raume
+- [x] Gilda moves towards Home (DONE)
+- [x] Gilda arrives in Home (DONE)
+- [x] Gilda finds Raume
+- [] Gild kills Raume
 
 Impending Doom
 

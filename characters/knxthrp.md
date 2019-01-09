@@ -41,3 +41,10 @@ by in this world. At a fundamental level, they get each other. Knxthrp is more
 direct, and doesn't quite understand the whole illusion thing.
 
 ## Questions
+
+> At what stage in life were you in when you
+> made pact with the demon?
+
+> How did you come in contact with this demon?
+
+> How did your peers react when they found out?
